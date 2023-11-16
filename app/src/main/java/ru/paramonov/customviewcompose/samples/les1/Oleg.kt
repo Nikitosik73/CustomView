@@ -1,4 +1,4 @@
-package ru.paramonov.customviewcompose.samples
+package ru.paramonov.customviewcompose.samples.les1
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.background
